@@ -2,8 +2,8 @@
 ---
 <h2>Criando sistema bancário em python</h2>
 
-<p>O sistema é básico e ultiza dos fundamentos aprendidos nas trilhas iniciais do curso de python da [DIO](https://github.com/digitalinnovationone).<br/>
-O objetivo e criar um código em que o usuário possa realizar as ações: **depositar** **sacar** **emitir extrato** <br/> </p>
+O sistema é básico e ultiza dos fundamentos aprendidos nas trilhas iniciais do curso de python da [DIO](https://github.com/digitalinnovationone).<br/>
+O objetivo e criar um código em que o usuário possa realizar as ações: **depositar** **sacar** **emitir extrato** <br/> 
 
 <h3>Regras de negócio</h3>
 
